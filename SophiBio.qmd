@@ -1,0 +1,22 @@
+---
+title: "Sophi Samus"
+about: 
+  template: trestles
+  image: /Users/sophisamus/Desktop/IaccheiLabWebsite/images/DSC_0047_Original.jpg
+  links: 
+    - icon: github
+      text: GtiHub
+      href: https://github.com/SophiSamus1
+---
+
+link to lab notebook
+
+About
+
+Sophi graduated from Hawai‘i Pacific University with a B.S. in marine biology where she worked on a number of projects including barcoding lobster phyllosoma samples and sorting plankton tows. She is now in the Master of Science in Marine Science (MSMS) program at HPU in the Iacchei (MOB) lab. Sophi is primarily interested in the evolutionary impacts of climate change on intertidal invertebrates. Her thesis will investigate differential gene expression between Hawaiian limpets (‘opihi) in normal and stressed conditions. After she graduates, she plans to pursue a PhD in marine ecology, furthering her masters research.
+
+Contact
+
+ssamus1\@my.hpu.edu
+
+CV

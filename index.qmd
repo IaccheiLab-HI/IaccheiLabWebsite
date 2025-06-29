@@ -1,0 +1,25 @@
+---
+title: "Iacchei Lab"
+editor_options: 
+  chunk_output_type: inline
+
+about: 
+  template: marquee
+  image: /Users/sophisamus/Desktop/IaccheiLabWebsite/images/IMG_2947.jpg
+  links: 
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/iaccheilab/?next=%2F
+---
+
+The Iacchei Lab is an academic research laboratory at Hawaii Pacific University.
+
+Our lab uses a combination of field and molecular techniques to answer conservation and fisheries questions important to our local community.
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
