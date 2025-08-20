@@ -5,7 +5,7 @@ editor_options:
 
 about: 
   template: marquee
-  image: /images/IMG_2947.jpg
+  image: images/IMG_2947.jpg
   links: 
     - icon: instagram
       text: Instagram
